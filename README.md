@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @twilkinson3421
 - 👀 I’m interested in NodeJS, ReactJS, & NextJS
-- 🌱 I’m currently learning general relativity
-- 📫 How to reach me: email (twilkinson3421@outlook.com)
+- 📫 How to reach me: email (tomwilkinson1@mail.com)
