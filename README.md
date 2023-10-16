@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @twilkinson3421
-- 👀 I’m interested in NodeJS, ReactJS, & NextJS
-- 📫 How to reach me: email (tomwilkinson1@mail.com)
+- 👀 I’m interested in React, Next.js, Node.js (& Express), and JavaScript frameworks & wider ecosystem trends & tools
+- 📫 How to reach me: email (tomwilkinson1@mail.com || twilkinson3421@outlook.com)
