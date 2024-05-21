@@ -11,4 +11,10 @@ Read more on my [portfolio](https://tswilkinson.com)
   <a href="https://github.com/twilkinson3421/startjob-v14">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=twilkinson3421&repo=startjob-v14&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
+  <a href="https://github.com/twilkinson3421">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilkinson3421&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/twilkinson3421">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=twilkinson3421&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="GitHub Statistics" />
+  </a>
 </div>
