@@ -7,6 +7,8 @@ Hi! I'm Tom Wilkinson, a web developer with experience using various technologie
 Read more on my [portfolio](https://tswilkinson.com)
 
 ## Pinned Repositories
-<a href="https://github.com/twilkinson3421/startjob-v14">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=twilkinson3421&repo=startjob-v14&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div style="display:flex;flex-drection:column;gap:0.5rem">
+  <a href="https://github.com/twilkinson3421/startjob-v14">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=twilkinson3421&repo=startjob-v14&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</div>
