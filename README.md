@@ -1,5 +1,5 @@
 [![Hi, I'm Tom Wilkinson](./assets/banner.png)](https://tswilkinson.com)
-[![Visits Badge](https://badges.pufler.dev/visits/twilkinson3421/twilkinson3421)](https:tswilkinson.com)
+![Visits Badge](https://badges.pufler.dev/visits/twilkinson3421/twilkinson3421)
 
 Hi! I'm Tom Wilkinson, a web developer with experience using various technologies within the React ecosystem, especially Next.js & related technologies. I'm interested in everything web; frontend, backend, HTTP, Databases...
 
