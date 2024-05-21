@@ -7,6 +7,4 @@ Hi! I'm Tom Wilkinson, a web developer with experience using various technologie
 Read more on my [portfolio](https://tswilkinson.com) \
 *I'll get round to reworking it at some point :)*
 
-<a href="https://example.com" target="_blank">Test Link</a>
-
 
