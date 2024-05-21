@@ -12,7 +12,7 @@ Read more on my [portfolio](https://tswilkinson.com)
 </a>
 
 ## Statistics
-***Languages*
+**Languages**
 <a href="https://github.com/twilkinson3421">
   <img align="center" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilkinson3421&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
