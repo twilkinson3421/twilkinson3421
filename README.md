@@ -13,6 +13,11 @@ Read more on my [portfolio](https://tswilkinson.com)
 
 ## Skills
 
+**Languages**
+
+  - ![UK](https://flagcdn.com/16x12/uk.png) English (Native)
+  - ![DE](https://flagcdn.com/16x12/de.png) Deutsch (Advanced)
+
 ***🚧 Under Construction***
 
 ## Statistics
