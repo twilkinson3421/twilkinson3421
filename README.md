@@ -16,7 +16,7 @@ Read more on my [portfolio](https://tswilkinson.com)
 **Languages**
 
   - [![UK](https://flagcdn.com/16x12/gb.png)](https://github.com/twilkinson3421) **English** *(Native)*
-  - ![DE](https://img.shields.io/badge/Deutsch.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1IDMiPjxwYXRoIGQ9Ik0wIDBoNXYzSDB6Ii8+PHBhdGggZmlsbD0iI0QwMCIgZD0iTTAgMWg1djJIMHoiLz48cGF0aCBmaWxsPSIjRkZDRTAwIiBkPSJNMCAyaDV2MUgweiIvPjwvc3ZnPg==)
+  - ![DE](https://img.shields.io/badge/Deutsch?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1IDMiPjxwYXRoIGQ9Ik0wIDBoNXYzSDB6Ii8+PHBhdGggZmlsbD0iI0QwMCIgZD0iTTAgMWg1djJIMHoiLz48cGF0aCBmaWxsPSIjRkZDRTAwIiBkPSJNMCAyaDV2MUgweiIvPjwvc3ZnPg==)
 
 **Skills**
 
