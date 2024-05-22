@@ -20,7 +20,7 @@ Read more on my [portfolio](https://tswilkinson.com)
 
 **Skills**
 
-![](https://img.shields.io/badge/TypeScript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Statistics
 **Languages**
