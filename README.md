@@ -24,6 +24,9 @@ Read more on my [portfolio](https://tswilkinson.com)
 ![](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-58C4dC?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ***Systems →***
 
