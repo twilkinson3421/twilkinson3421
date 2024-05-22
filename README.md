@@ -21,6 +21,7 @@ Read more on my [portfolio](https://tswilkinson.com)
 **Skills**
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Statistics
 **Languages**
