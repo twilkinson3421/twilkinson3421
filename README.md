@@ -22,7 +22,8 @@ Read more on my [portfolio](https://tswilkinson.com)
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-58C4dC?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/React-58C4dC?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextjs&logoColor=white)
 
 ## Statistics
 **Languages**
