@@ -18,7 +18,9 @@ Read more on my [portfolio](https://tswilkinson.com)
   - [![UK](https://flagcdn.com/16x12/gb.png)](https://github.com/twilkinson3421) **English** *(Native)*
   - [![DE](https://flagcdn.com/16x12/de.png)](https://github.com/twilkinson3421) **Deutsch** *(Advanced)*
 
-***🚧 Under Construction***
+**Skills**
+
+  - ![](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-bade&logo=typescript&logoColor=white&color=4AB197)
 
 ## Statistics
 **Languages**
