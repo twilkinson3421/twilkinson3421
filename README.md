@@ -28,20 +28,20 @@ Read more on my [portfolio](https://tswilkinson.com)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-***Systems***
+***Operating Systems***
 
 ![](https://img.shields.io/badge/Windows-0078D5?style=for-the-badge&logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/Linux-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 
 ## Statistics
-**Languages**
+***Languages***
 
 <a href="https://github.com/twilkinson3421">
   <img align="center" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilkinson3421&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br /><br />
 
-**Statistics**
+***GitHub***
 
 <a href="https://github.com/twilkinson3421">
   <img align="center" style="margin-bottom:10px" src="https://github-readme-stats.vercel.app/api?username=twilkinson3421&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="GitHub Statistics" />
