@@ -13,19 +13,19 @@ Read more on my [portfolio](https://tswilkinson.com)
 
 ## Skills
 
-**Languages** ⇒
+***Languages →***
 
 ![UK](https://img.shields.io/badge/English-white.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBkPSJNMCAwdjMwaDYwVjB6Ii8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImIiPjxwYXRoIGQ9Ik0zMCAxNWgzMHYxNXp2MTVIMHpIMFYwelYwaDMweiIvPjwvY2xpcFBhdGg+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMCAwdjMwaDYwVjB6IiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAgMGw2MCAzMG0wLTMwTDAgMzAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI2Ii8+PHBhdGggZD0iTTAgMGw2MCAzMG0wLTMwTDAgMzAiIGNsaXAtcGF0aD0idXJsKCNiKSIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjQiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMzAgMHYzME0wIDE1aDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPjwvZz48L3N2Zz4=)
 ![DE](https://img.shields.io/badge/Deutsch-white.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1IDMiPjxwYXRoIGQ9Ik0wIDBoNXYzSDB6Ii8+PHBhdGggZmlsbD0iI0QwMCIgZD0iTTAgMWg1djJIMHoiLz48cGF0aCBmaWxsPSIjRkZDRTAwIiBkPSJNMCAyaDV2MUgweiIvPjwvc3ZnPg==)
 
-**Code →**
+***Code →***
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-58C4dC?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
 
-**Systems** →
+***Systems →***
 
 ![](https://img.shields.io/badge/Windows-0078D5?style=for-the-badge&logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/Linux-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
