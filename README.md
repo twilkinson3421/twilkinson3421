@@ -39,7 +39,7 @@
 ***Operating Systems***
 
 ![](https://img.shields.io/badge/Windows-0078D5?style=for-the-badge&logo=windows11&logoColor=white)
-![](https://img.shields.io/badge/Linux-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+![](https://img.shields.io/badge/Linux%20(WSL)-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 
 ## Statistics
 
