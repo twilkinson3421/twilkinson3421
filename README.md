@@ -4,7 +4,7 @@
 
 *Hi! I'm Tom Wilkinson, a **web developer** with experience using various technologies within the **React** & **Node** ecosystem, especially **Next.js** & related technologies. I'm interested in everything web; **frontend**, **backend**, **HTTP**, **Databases**...*
 
-*Read more on my [**portfolio**](https://tswilkinson.com)* (pending a new update...)
+*Read more on my [**portfolio**](https://tswilkinson.com) (pending a new update...)*
 
 ## Pinned Repositories
 <a href="https://github.com/twilkinson3421/next-loc">
