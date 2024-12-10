@@ -28,25 +28,25 @@
 
 ***Code***
 
+![](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) \
+![](https://img.shields.io/badge/Deno-70FFAF?style=for-the-badge&logo=deno&logoColor=black)
+![](https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-58C4dC?style=for-the-badge&logo=react&logoColor=white) \
 ![](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) \
-![](https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Deno-70FFAF?style=for-the-badge&logo=deno&logoColor=black)
-![](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ***Tools***
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=htmx&logoColor=white)
+![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/JSR-F7DF1E?style=for-the-badge&logo=jsr&logoColor=black)
 
 ***Operating Systems***
 
 ![](https://img.shields.io/badge/Windows-0078D5?style=for-the-badge&logo=windows11&logoColor=white)
-![](https://img.shields.io/badge/Linux%20(WSL)-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+![](https://img.shields.io/badge/Linux/UNIX%20(WSL)-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
